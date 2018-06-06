@@ -1,0 +1,2 @@
+[02-Jun-2018 22:48:55 America/Chicago] PHP Fatal error:  Call to undefined function detect_prefix_en() in /home2/santikon/public_html/Portfolio/application/views/Home_view.php on line 175
+[06-Jun-2018 03:58:39 America/Chicago] PHP Fatal error:  Function name must be a string in /home2/santikon/public_html/Portfolio/application/controllers/Portfolio.php on line 28
